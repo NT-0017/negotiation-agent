@@ -1,0 +1,7 @@
+product_id,product_name,category,base_price,market_price,min_price,max_discount_percent
+1,Wireless Earbuds,Electronics,2999,3499,2400,20
+2,Smart Watch,Electronics,4999,5999,4200,18
+3,Sneakers,Fashion,2499,2999,1900,25
+4,Backpack,Fashion,1799,2199,1400,22
+5,Electric Kettle,Home,1499,1799,1200,15
+6,Office Chair,Furniture,8999,9999,7600,12
